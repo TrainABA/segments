@@ -9,7 +9,7 @@ Why would that matter? TrainABA framework would achieve it's highest level of or
 
 (iii) Supervisors make changes directly to the forked repo on their own Github accounts, to make the content more specific. They change a meeting agenda item here, add/remove a learning objective, fill in the blanks on an item, etc.  
 
-(iv) Since the rest of the team is "following" the supervsior's forked repo, they get emailed with changes as they happen. 
+(iv) Since the rest of the team is "following" the supervisor's forked repo, they get emailed with changes as they happen. 
 
 (v) A supervisor may assign something for the supervisee to do, related to the forked repo, such as linking to a learning objective on a TrainABA open source elearning course. The supervisee can add that update to the master meeting agenda by creating a pull request. The supervisor can review it and has total control. They can send a quick note that lines 3-4 need to be changed, for example. If it's perfect, the supervisor merges the pull request into the branch. Now it's in the main supervision repo for the current and future supervision cohorts. This is very helpful in keeping the team organized going forward.
 
