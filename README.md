@@ -42,10 +42,20 @@ The issue of packages becomes important when supervisors (and organizations) dev
 
 What happens to the package? Does it only live on that company's account as a secret? Let's hope not, because that means all the other companies in the world facing a similar problem will need to reinvent the wheel. If you share the package with TrainABA, we can add that to our list of packages so people can find it readily and you will get credit for helping them. They might even send you a thank you message. Somebody definitely owes you a beer/cider/soda.
 
+<<<<<<< HEAD
+They could run into another company director at a local conference next month, who is having a similar problem with school-based billing procedures. They say, "Well, we made a package for that. You could just merge our package into your TrainABA supervision repo." That person can solve their school-based billing woes thanks to your package. They now owe you a beer/cider/soda. TrainABA is proud that you were a good neighbor. Your package was compatible with our master branch, so your company (and others) can incorporate it easily without disrupting their supervision cohorts. Hooray! If we keep this up, just imagine how organized our community will be in 20 years? You will still be providing services, better than ever. 
+=======
 They could run into another company director at a local conference next month, who is having a similr problem with school-based billing provedures. They say, "Well, we made a package for that. You could just merge our package into your TrainABA supervision repo." That person can solve their school-based billing procedures woes thanks to your package. They now owe you a beer/cider/soda. TrainABA is proud that you were a good neighbor. Your package was compatible with our master branch, so your company (and others) can incorporate it easily without disrupting their supervision cohorts. Hooray! If we keep this up, just imagine how organized our community will be in 20 years? You will still be providing services, better than ever. 
+>>>>>>> 45cf59a58a84ef6bf72a83a72213f6bdbd83e4ce
  
 
 ### Your Github account: public or private?
 
 As far as the Github account is concerned, you have an option of making it a private organizational account. If the account is organizational, no need to make it "private" since there is no personal employee or client information. If an organization wants to include that level of information, which is not necessary for using TrainABA but could be of interest to the company, they can create an organization account on Github and pay the $7 (or so) per month to Github for private repositories. 
 
+<<<<<<< HEAD
+### Organization
+
+The ongoing question is whether to organize the repos by segment components (e.g., all the group meeting agendas in one repo, all indiv. agendas in another) or to keep it organized by segment chronologically (e.g. everything in week one together, week two together, etc.). It is easier for users if it is organized. The supervisees can check their weekly focus items, agendas, and deliverables in one place. It also matches the first edition of the TrainABA Supervision Curriculume Series books. The advantages to grouping all the meeting agendas in one repo seem to be reaped by the supervisor developing the curriculum, not the learners going through it. 
+=======
+>>>>>>> 45cf59a58a84ef6bf72a83a72213f6bdbd83e4ce
