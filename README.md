@@ -42,8 +42,6 @@ What happens to the package? Does it only live on that company's account as a se
 
 They could run into another company director at a local conference next month, who is having a similar problem with school-based billing procedures. They say, "Well, we made a package for that. You could just merge our package into your TrainABA supervision repo." That person can solve their school-based billing woes thanks to your package. They now owe you a beer/cider/soda. TrainABA is proud that you were a good neighbor. Your package was compatible with our master branch, so your company (and others) can incorporate it easily without disrupting their supervision cohorts. Hooray! If we keep this up, just imagine how organized our community will be in 20 years? You will still be providing services, better than ever. 
 
-They could run into another company director at a local conference next month, who is having a similr problem with school-based billing provedures. They say, "Well, we made a package for that. You could just merge our package into your TrainABA supervision repo." That person can solve their school-based billing procedures woes thanks to your package. They now owe you a beer/cider/soda. TrainABA is proud that you were a good neighbor. Your package was compatible with our master branch, so your company (and others) can incorporate it easily without disrupting their supervision cohorts. Hooray! If we keep this up, just imagine how organized our community will be in 20 years? You will still be providing services, better than ever. 
- 
 
 ### Your Github account: public or private?
 
