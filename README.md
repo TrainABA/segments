@@ -1,3 +1,13 @@
+# Update
+TrainABA is maintained by B.T., whose PhD coursework ended summer 2017. At the time of writing, B.T. has been out of classes for two months and returned full force to continue TrainABA development. 
+The next order of business for TrainABA is to start organizing content that others can readily download, modify, and customize to their particular needs for work, school, and making continuing education. If you think about the content of TrainABA, it spans a full university bachelor's and master's degree content for behavior analysis training AND 1500 hours of structured supervision internship, plus ongoing supervision of all billable levels ever after. That's a lot of material, and that's just in English. The foreign language offerings have not hit shelves yet.
+
+To manage and deploy a system like TrainABA, itt's going to take some serious dev-ops and willingness to utilize open source technologies. We're talking Github repos galore, IRC, various CMS options, LMS platform cartridges, PDFs, ebooks, and plain text docs from tiny definition lists all the way to a whole graduate degree's worth of info. Clearing out the old B.T. hard drive, there are PDFs, slideshows, quiz modules, and all kinds of things that most TrainABA book users do not even know about. Something must change for the contents to get out to people who need them. In all honesty, next to no effort has been expended into marketing TrainABA.
+
+The best model for organizing TrainABA contents appears to be making it for as many platforms as possible, especially based on what people use, and making a downloadable version available in certain ways. More choices are better. The content is built on GNU Free Documentation License v1.3. As B.T. continues to develop the TrainABA platforms, more structure will follow. Since it's inception in 2013, revenue from TrainABA gets fed back into TrainABA to develop TrainABA. That pattern will continue. As a DBA and then C-Corporation, the next steps involve pursuit of non-profit status to further communicate the purpose and nature of TrainABA. Perhaps not much will happen in 2017 but it appears 2018 will involve a great deal of advancement for TrainABA. 
+
+--B.T., 2017 September 11
+
 # Segments
 This repository is a proof-of-concept for managing TrainABA framework for fieldwork hours via Github. 
 
