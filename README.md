@@ -1,10 +1,8 @@
 # Overview
 A Moodle course, "TrainABA BCBA Independent Fieldwork Learning Management System (LMS)," for managing 1500 hours of supervision via 2-week curriculum. Free & open source software. Release v1.0.0 for Moodle available at:
 
-
-
 # Segments
-This repository is a proof-of-concept for managing TrainABA framework for fieldwork hours via Github. 
+This repository is for managing TrainABA framework for fieldwork hours via Github. 
 
 Why would that matter? TrainABA framework would achieve it's highest level of organization if this concept works. See below.
 
