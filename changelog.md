@@ -1,8 +1,9 @@
-As always, no BACB affiliation, no warranty, no guarantees of merchantibility promised or implied, user releases developer and TrainABA of liability, use as-is at your own responsibility.
-GPL v3 License. Please share, use, modify, and distribute with the same freedoms for others.
+1.5.0 Release December 15, 2017
+Adds 25 individual supervised fieldwork meeting forms, one per segment.
+Each form is integrated with the Moodle open source course. One form is found in each segment. 
+A supervisor can easily copy, modify, share, and distribute these forms in accordance with the Creative Commons 4.0 BY-NC-SA license. Additionally. the files are attached as plaintext files. The files are also added to each segment folder in the Github repo. 
 
-
-1.4.1 Release December 15, 2017. 
+1.4.1 Release December 14, 2017. 
 Add 25 Group Facilitation meeting agendas (one for each segment)
 Checked under Moodle 3.4 server requirements (e.g., php7).
 Reverted group meeting agendas to match 2015 books (e.g., remove "Alternative" prefix).
