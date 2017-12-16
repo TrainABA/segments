@@ -1,0 +1,44 @@
+Segment 3 – Individual Supervision Agenda
+
+
+Supervisor: __________________ Supervisee: __________________
+
+Meeting Date: _______________ Time of meeting – From:_____________ To:_______________
+
+This document covers supervisory period from ____/____/____ to ____/____/____
+
+1. Pass-in/Review Homework:
+Did the Supervisee satisfactorily complete this homework assignment?         Yes / No
+If not, what is needed to complete assignment? Describe below.
+
+2. Task List items addressed (D 1, 19, 21; FK 17-18, 21, 23)
+
+3. Definitions/SAFMEDs learned
+             Flashcard(s) created              Was supervisee fluent with definitions?  Yes   No
+
+4. Discussion topics or activities completed during this meeting:
+
+5. Homework assigned for next meeting
+
+6. Closing questions/feedback
+ 
+
+
+/**************************************************************************************************************
+*  Download additional copies and contribute on TrainABA's Github page:
+*  http://github.com/trainaba/segments
+*
+*  CREDITS: TrainABA is a free and open source supervision framework. You are
+*  invited to contribute. It is created and maintained by B. Theisen,
+*  with contributions and support from the ABA community.
+*
+*  LICENSE: Creative Commons 4.0-BY-SA-NC
+*  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode 
+* 
+*  DISCLAIMER: TrainABA, Theisen.IO, and BXT Dynamics, Inc., are released from
+*  all liability for any damages resulting from use of this form, nor are
+*  they affiliated with or endorsed by the Behavior Analyst Certification
+*  Board in any way. No warranty. No guarantee of merchantibility.
+***************************************************************************************************************/
+
+
