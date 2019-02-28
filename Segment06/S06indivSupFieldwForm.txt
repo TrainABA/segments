@@ -39,7 +39,7 @@ If not, what is needed to complete assignment? Describe below.
 *  LICENSE: Creative Commons 4.0-BY-SA-NC
 *  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode 
 * 
-*  DISCLAIMER: TrainABA, Theisen.IO, and BXT Dynamics, Inc., are released from
+*  DISCLAIMER: TrainABA and BXT Dynamics, Inc., are released from
 *  all liability for any damages resulting from use of this form, nor are
 *  they affiliated with or endorsed by the Behavior Analyst Certification
 *  Board in any way. No warranty. No guarantee of merchantibility.
