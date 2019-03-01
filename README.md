@@ -1,5 +1,11 @@
 # Overview
-The TrainABA Supervision Curriculum Series was published as a copyrighted book in 2015. It was released as an open-source project in 2017, though TrainABA did not have the resources to develop the project beyond free PDF copies and plaintext files. In 2018, the project was adopted by a 501(c)(3) called Cumulative Records Documentation Society (CRDS) and enrolled in its Professional Frameworks Project program.  As part of the program, CRDS has begun the process of converting TrainABA books to a public license for non-commercial use. The TrainABA books are being developed so that anyone will be able to use, copy, modify, and distribute non-commercially. 
+The TrainABA Supervision Curriculum Series was published as a copyrighted book in 2015. It was released as an open-source project in 2017, though TrainABA did not have the resources to develop the project beyond free PDF copies and plaintext files. 
+
+In 2018, the project was adopted by a 501(c)(3) called Cumulative Records Documentation Society (CRDS) and enrolled in its Professional Frameworks Project (PFP) program.  
+
+As part of the program, CRDS has begun the process of converting TrainABA books to a public license for non-commercial use. The TrainABA books are being developed so that anyone will be able to use, copy, modify, and distribute non-commercially. 
+
+Below are three target outcomes of TrainABA's participation in the PFP program:
 
 Target Outcome 1: Remove and replace content that is not appropriate for a public, non-commercial license.
 
