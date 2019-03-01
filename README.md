@@ -1,5 +1,7 @@
 # Overview
-A Moodle course, "TrainABA BCBA Independent Fieldwork Learning Management System (LMS)," for managing 1500 hours of supervision via 2-week curriculum. Free & open source software. Check for current releases, here on this Github page.
+The TrainABA Supervision Curriculum Series was published as a copyrighted book in 2015. Starting in 2018, it is being converted to a public license for non-commercial use. It is being developed as an open-source project, which anyone will be able to use, copy, modify, and distribute non-commercially. To download the current release, click on "Releases" in this repo. A more user-friendly version of this framework is anticipated in a major release for Fall 2019.  
+
+This repo contains a Moodle course, "TrainABA BCBA Independent Fieldwork Learning Management System (LMS)," for managing 1500 hours of supervision via 2-week curriculum. Free & open source software. Check for current releases, here on this Github page.
 
 Software code is licensed under GPL 3.0: https://www.gnu.org/licenses/gpl-3.0.en.html
 All educational materials licensed under Creative Commons 4.0-BY-SA-NC: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
