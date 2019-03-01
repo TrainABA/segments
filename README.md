@@ -1,7 +1,10 @@
 # Overview
 The TrainABA Supervision Curriculum Series was published as a copyrighted book in 2015. It was released as an open-source project in 2017, though TrainABA did not have the resources to develop the project beyond free PDF copies and plaintext files. In 2018, the project was adopted by a 501(c)(3) called Cumulative Records Documentation Society (CRDS) and enrolled in its Professional Frameworks Project program.  As part of the program, CRDS has begun the process of converting TrainABA books to a public license for non-commercial use. The TrainABA books are being developed so that anyone will be able to use, copy, modify, and distribute non-commercially. 
+
 Target Outcome 1: Remove and replace content that is not appropriate for a public, non-commercial license.
+
 Target Outcome 2: Every supervisor can customize their own version and distribute it to interns. 
+
 Target Outcome 3: Every professor can customize their own version for students. 
 
 To download the current release, click on "Releases" in this repo. A more user-friendly version of this framework is anticipated in a major release for Fall 2019.  
@@ -9,6 +12,7 @@ To download the current release, click on "Releases" in this repo. A more user-f
 This repo contains a Moodle course, "TrainABA BCBA Independent Fieldwork Learning Management System (LMS)," for managing 1500 hours of supervision via 2-week curriculum. Free & open source software. Check for current releases, here on this Github page.
 
 Software code is licensed under GPL 3.0: https://www.gnu.org/licenses/gpl-3.0.en.html
+
 All educational materials licensed under Creative Commons 4.0-BY-SA-NC: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 All content below this line was written by TrainABA in 2017 and may or may not apply to the future releases under CRDS.
